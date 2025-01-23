@@ -34,5 +34,7 @@ Working with dictionaries for data storage and lookups.
 Writing reusable functions for resource checks, coin processing, and drink preparation.
 Implementing input validation and error handling for user interaction.
 
+This is only for Educational Purposes Only
+
 
 
